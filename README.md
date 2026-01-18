@@ -1,4 +1,4 @@
-# doom_scroll_insta
+# doom_scroll_insta ( under development )
 an agent that does the reels doom-scrolling on the user's behalf.
 
 this agent can :
